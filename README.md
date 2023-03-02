@@ -1,7 +1,7 @@
 # Mario-AI
 
 Creating an AI that plays mario.<br>
-Training 2 agents with 2 different RL algorithms (PPO, DQN) doing 2,000,000 timesteps with each algorithms and comparing the results (can be seen in the word file "Mario AI Project").
+Training 2 agents with 2 different RL algorithms (PPO, DQN) doing 2,000,000 timesteps with each algorithm and comparing the results (can be seen in the word file "Mario AI Project").
 
 ## Description
 
