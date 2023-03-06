@@ -7,7 +7,7 @@ Training 2 agents with 2 different RL algorithms (PPO, DQN) doing 2,000,000 time
 
 * This project was made on the first semester of the degree's third year.
 
-* This page contains a brief explanation, for a full exlanation about the project (explanation about the libraries in use and the algorithms with comparison data) can be view in the file "Mario AI Project".
+* This page contains a brief explanation, for a full exlanation about the project (explanation about the libraries in use and the algorithms with comparison data) can be viewed in the file "Mario AI Project".
 
 This project is using jpyter notebook, gym-super-mario-bros, nes-py, pytorch, and 2 stable baselines3 RL algorithms called PPO and DQN in order to set up an environment for training the 2 agents to play mario.<br>
 
