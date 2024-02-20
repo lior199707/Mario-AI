@@ -13,7 +13,7 @@ This project is using jpyter notebook, gym-super-mario-bros, nes-py, pytorch, an
 
 In order to improve the learning process the images of the Mario game are proccessedas gray images using gym.wrappers.GrayScaleObservation because color is a redundant parameter for the purpose of the learning.<br>
 
-In order to for the agent to gain context and "memory" using a frame stack of size 4.<br>
+In order for the agent to gain context and "memory" using a frame stack of size 4.<br>
 
 By default gym_super_mario_bros environment use actions space of 256 discrete actions which takes a lot of time for an AI model to learn and a lot of space so we used the SIMPLE_MOVEMENT actions list that contains 7 actions: [ [‘NOOP’], [‘right’], [‘right’, A], [‘right’, B], [‘right’, A, B], [A], [‘left’] ] <br>
 
