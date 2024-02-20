@@ -26,11 +26,11 @@ Run all the pip install commands first.<br>
 
 ### Train the PPO Model
 
-Trains a model using a PPO algorithm for 1,000,000 timesteps, saves the model every 50,000 in a directory named "ppo_train" and the log in a directory named "ppo_logs" wich can be viewed using tesrorboard. 
+Trains a model using a PPO algorithm for 1,000,000 timesteps, saves the model every 50,000 in a directory named "ppo_train" and the log in a directory named "ppo_logs" wich can be viewed using tensorboard. 
 
 ### Retrain the model
 
-Loads the last saved model of the PPO and trains it for another 1,000,000 timesteps, saves the model every 50,000 in a directory named "ppo_train2" and the log in a directory named "ppo_logs" wich can be viewed using tesrorboard.
+Loads the last saved model of the PPO and trains it for another 1,000,000 timesteps, saves the model every 50,000 in a directory named "ppo_train2" and the log in a directory named "ppo_logs" wich can be viewed using tensorboard.
 
 ### Test it out
 
